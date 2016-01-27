@@ -1,1 +1,1 @@
-# kennishi-gy.github.com
+http://kennishi-gy.github.io/
